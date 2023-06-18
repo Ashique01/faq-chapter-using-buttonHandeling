@@ -10,13 +10,13 @@ function Faq({ id, question, answer }) {
           <div className="d-flex justify-content-between align-items-center">
             <h5 className="card-title text-start">{question}</h5>
             <button
-              className="btn btn-outline-dark"
+              className="btn btn-outline-primary"
               onClick={() => setShowInfo(!showInfo)}
             >
               {showInfo ? (
-                <AiFillMinusCircle className="fs-3" />
+                <AiFillMinusCircle className="fs-4" />
               ) : (
-                <AiFillPlusCircle className="fs-3" />
+                <AiFillPlusCircle className="fs-4" />
               )}
             </button>
           </div>
