@@ -27,3 +27,13 @@ This is a simple FAQ app built with React. It allows users to view frequently as
 ## Usage
 * Click on a question to toggle the visibility of the answer.
 * Use the responsive design to view the app on different device
+
+## Contributing
+Contributions are welcome! If you have any suggestions or improvements, feel free to submit a pull request.
+
+
+### Thank you and happy coding!
+Feel free to modify and customize the README.md file according to your project's specific details and requirements.
+
+
+
